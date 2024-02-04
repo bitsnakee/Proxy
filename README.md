@@ -14,7 +14,10 @@ sudo apt install python3-pip
 ```
 pip3 install requests random-word pyfiglet alive-progress
 ```
+```
+sudo apt install git
+```
 # Installation
 ```
-git clone
+git clone https://github.com/bitsnakee/Proxy-rec.git
 ```
