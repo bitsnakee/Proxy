@@ -25,7 +25,7 @@ git clone https://github.com/bitsnakee/Proxy-rec.git
 ```
 python3 proxy.py
 ```
-![alt tag](https://pasteboard.co/lQ7DHvcs03cx.jpg)
+![alt tag](https://dragon.online-convert.com/download-file/7233c513-14bf-4926-ad05-4dde9cda4fc0/bfea2470-f74d-4464-b525-e478b8f5278f)
 ![alt tag](https://emreovunc.com/projects/Syn_Flood_02.png)
 
 
