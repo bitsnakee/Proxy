@@ -27,7 +27,7 @@ git clone https://github.com/bitsnakee/Proxy-rec.git
 python3 proxy.py
 ```
 
-![alt tag](https://up.20script.ir/file/e104-IMG-4940.jpeg/2048px-Python.svg.png2aee4a69-bc11-45b9-ab4f-af33ed69698e4dde9cda4fc0/bfea2470-f74d-4464-b525-e478b8f5278f)
+![alt tag](https://up.20script.ir/file/e104-IMG-4940.jpeg45b9-ab4f-af33ed69698e4dde9cda4fc0/bfea2470-f74d-4464-b525-e478b8f5278f)
 
 
 
