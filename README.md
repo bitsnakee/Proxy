@@ -2,7 +2,6 @@
 Hello
 The script I wrote uses an API to receive proxies (Http, Socks4, Socks5) and after receiving it, it starts checking the proxies against the address www.google.com and after checking the proxies in two files. Saves Proxy.txt and ProxyCheck.txt. The proxies received directly from the API are saved in the Proxy.txt file, and the checked proxies are saved in the ProxyCheck.txt file.
 
-![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png2aee4a69-bc11-45b9-ab4f-af33ed69698e4dde9cda4fc0/bfea2470-f74d-4464-b525-e478b8f5278f)
 # Dependencies
 ```
 sudo apt update
@@ -28,6 +27,7 @@ git clone https://github.com/bitsnakee/Proxy-rec.git
 python3 proxy.py
 ```
 
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png2aee4a69-bc11-45b9-ab4f-af33ed69698e4dde9cda4fc0/bfea2470-f74d-4464-b525-e478b8f5278f)
 
 
 
