@@ -21,3 +21,12 @@ sudo apt install git
 ```
 git clone https://github.com/bitsnakee/Proxy-rec.git
 ```
+# Usage
+```
+python3 proxy.py
+```
+
+
+
+
+
