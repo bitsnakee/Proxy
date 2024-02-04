@@ -5,9 +5,12 @@ The script I wrote uses an API to receive proxies (Http, Socks4, Socks5) and aft
 ```
 sudo apt update
 ```
+```
 sudo apt install python3
 ```
+```
 sudo apt install python3-pip
+```
 ```
 pip3 install requests random-word pyfiglet alive-progress
 ```
