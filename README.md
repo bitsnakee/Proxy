@@ -25,6 +25,16 @@ git clone https://github.com/bitsnakee/Proxy-rec.git
 ```
 python3 proxy.py
 ```
+![alt tag](https://uploadkon.ir/uploads/1ddd04_24camphoto-959030623.jpeg)
+
+
+
+
+
+
+
+
+
 
 
 
