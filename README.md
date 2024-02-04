@@ -26,6 +26,7 @@ git clone https://github.com/bitsnakee/Proxy-rec.git
 python3 proxy.py
 ```
 ![alt tag](https://pasteboard.co/lQ7DHvcs03cx.jpg)
+![alt tag](https://emreovunc.com/projects/Syn_Flood_02.png)
 
 
 
