@@ -24,6 +24,9 @@ git clone https://github.com/bitsnakee/Proxy-rec.git
 ```
 # Usage
 ```
+cd Proxy-rec
+```
+```
 python3 proxy.py
 ```
 ![IMG_4940](https://github.com/amirsolo2005/qaz/assets/134227028/94306d14-a02c-49e7-9c88-734a13a80466)
