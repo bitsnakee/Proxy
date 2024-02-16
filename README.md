@@ -13,7 +13,7 @@ sudo apt install python3
 sudo apt install python3-pip
 ```
 ```
-pip3 install requests random-word pyfiglet alive-progress
+pip install requests pyfiglet alive-progress futures colorama
 ```
 ```
 sudo apt install git
