@@ -29,7 +29,7 @@ cd Proxy-rec
 ```
 python3 proxy.py
 ```
-![IMG_4940](https://github.com/amirsolo2005/qaz/assets/134227028/94306d14-a02c-49e7-9c88-734a13a80466)
+![IMG_4940](https://github.com/bitsnakee/Proxy/assets/158815686/0dcd1b2e-142c-43ab-b1b9-b50e591deef2)
 
 
 
