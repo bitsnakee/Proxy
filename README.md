@@ -24,7 +24,7 @@ git clone https://github.com/bitsnakee/Proxy.git
 ```
 # Usage
 ```
-cd Proxy-rec
+cd Proxy
 ```
 ```
 python3 proxy.py
