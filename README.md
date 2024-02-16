@@ -20,7 +20,7 @@ sudo apt install git
 ```
 # Installation
 ```
-git clone https://github.com/bitsnakee/Proxy-rec.git
+git clone https://github.com/bitsnakee/Proxy.git
 ```
 # Usage
 ```
